@@ -1,4 +1,4 @@
-# 💼 Portfólio Profissional - Iran Cosme
+# 💼 Portfólio - Iran Cosme
 
 ## 📌 Sobre o Projeto
 
@@ -38,7 +38,7 @@ portfolio/
 ├── css/
 │   └── style.css
 │
-├── img/
+├── assets/
 │   └── imagens do projeto
 │
 ├── js/
